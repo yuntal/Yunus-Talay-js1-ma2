@@ -10,7 +10,6 @@ button.onclick= function (){
     console.log(event.target);
 
     event.target.style.background = "green";
-
 };
 
 
