@@ -67,7 +67,6 @@ words.onkeyup = function (){
     const length = event.target.value.length;
 
     countCharacters.innerHTML = length;
-
 };
 
 
